@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 git is amazing
 git tracks changes
 git tracks files
+create a new branch is quick
