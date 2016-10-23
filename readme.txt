@@ -6,3 +6,4 @@ git tracks changes
 git tracks files
 create a new branch is quick
 create a new branch is quick and simple
+merge with no-diff
